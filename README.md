@@ -50,8 +50,8 @@ This shell supports a subset of common features from shells like bash.
 
 3. Run the program:
    ```bash
-  ./smallsh
-  ```
+    ./smallsh
+    ```
 ---
 
 ## Commands
