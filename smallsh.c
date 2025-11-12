@@ -1,6 +1,6 @@
 // Name: Andy Nguyen
-// ***compile using -> gcc processmovies.c -o smallsh
-// ***run updated test script using -> ./p3testscript 2>&1
+// ***compile using -> gcc smallsh.c -o smallsh
+// ***run updated test script using -> ./p3testscript >&1
 
 #include <stdio.h>
 #include <stdlib.h>
